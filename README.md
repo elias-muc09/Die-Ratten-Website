@@ -8,7 +8,7 @@ This website presents selected text and source material from the Project Gutenbe
 
 **Final Project hostet via GH Pages**
 
-This site was built using [Die Ratten - Gerhard Hauptmann]([https://elias-muc09.github.io/Die-Ratten-Home/](https://elias-muc09.github.io/Die-Ratten-Website/))
+This site was built using [Die Ratten - Gerhard Hauptmann](https://elias-muc09.github.io/Die-Ratten-Home/](https://elias-muc09.github.io/Die-Ratten-Website/ )
 
 **Source Text**
 
