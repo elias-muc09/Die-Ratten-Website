@@ -6,19 +6,15 @@ A small educational website for presenting the Projekt **_Die Ratten_** by **Ger
 
 This website presents selected text and source material from the Project Gutenberg edition of _Die Ratten_ by Gerhart Hauptmann.
 
-## Live Site
+## Final Project hostet via GH Pages
 
-This site was built using [GitHub Pages](https://elias-muc09.github.io/Die-Ratten-Home/)
+This site was built using [Die Ratten - Gerhard Hauptmann]([https://elias-muc09.github.io/Die-Ratten-Home/](https://elias-muc09.github.io/Die-Ratten-Website/))
 
 ## Source Text
 
 The original text used on this site comes from Project Gutenberg’s edition of _Die Ratten_ by Gerhart Hauptmann .  
 _Die Ratten_ is a Berlin tragicomedy first published in 1911 .
 
-## About the Work
-
-_Die Ratten_ is a naturalistic drama set in Berlin and is known for its social criticism and depiction of urban poverty .  
-The title refers to rats both literally and symbolically, representing decay, hardship, and moral decline .
 
 ## Design
 
