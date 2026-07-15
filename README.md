@@ -6,7 +6,7 @@ A small educational website for presenting the Projekt **_Die Ratten_** by **Ger
 
 This website presents selected text and source material from the Project Gutenberg edition of _Die Ratten_ by Gerhart Hauptmann.
 
-** Final Project hostet via GH Pages**
+**Final Project hostet via GH Pages**
 
 This site was built using [Die Ratten - Gerhard Hauptmann]([https://elias-muc09.github.io/Die-Ratten-Home/](https://elias-muc09.github.io/Die-Ratten-Website/))
 
